@@ -143,6 +143,12 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bbox.h" />
+    <ClInclude Include="circle.h" />
+    <ClInclude Include="constants.h" />
+    <ClInclude Include="quadtree.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

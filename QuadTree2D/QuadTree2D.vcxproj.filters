@@ -19,4 +19,18 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="circle.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="constants.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bbox.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="quadtree.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
